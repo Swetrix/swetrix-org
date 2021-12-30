@@ -1,9 +1,8 @@
-/*
-  Cross-Origin-Embedder-Policy: require-corp; report-to="default";
-  Cross-Origin-Opener-Policy: same-site; report-to="default";
-  Cross-Origin-Resource-Policy: same-site
-  Permissions-Policy: interest-cohort=()
-  Referrer-Policy: strict-origin-when-cross-origin
-  X-Frame-Options: DENY
-  X-Powered-By: Mountain Dew
-  X-XSS-Protection: 0; mode=block
+Cross-Origin-Embedder-Policy: require-corp; report-to="default";
+Cross-Origin-Opener-Policy: same-site; report-to="default";
+Cross-Origin-Resource-Policy: same-site
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: DENY
+X-Powered-By: Mountain Dew
+X-XSS-Protection: 1; mode=block
